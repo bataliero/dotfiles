@@ -1,0 +1,14 @@
+set rnu
+set nu
+
+set incsearch
+
+set hlsearch
+set ignorecase
+
+set smartcase
+
+nnoremap <SPACE> <Nop>
+let mapleader=" "   
+
+set paste
