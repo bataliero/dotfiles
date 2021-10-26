@@ -1,3 +1,5 @@
+set EDITOR vi
+
 bind \ei nextd-or-forward-word                                  
 bind \eo prevd-or-backward-word
 
@@ -10,4 +12,7 @@ bind \ep history-token-search-backward
 
 
 set EDITOR vi
-bind \t complete
+#bind \t complete
+
+
+
